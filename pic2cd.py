@@ -3,7 +3,7 @@ from PIL import Image #a python image package
 ascii_char = list("$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'. ")
 # a list of character
 
-image_path = "2.jpg" #location of the image
+image_path = "jiang.jpg" #location of the image
 
 def tran_char(r,g,b,alpha=256):
     #transfer image to char
